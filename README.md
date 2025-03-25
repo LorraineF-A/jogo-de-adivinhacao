@@ -7,8 +7,8 @@ Ao longo do livro, são desenvolvidos três jogos, sendo o primeiro um jogo de a
 O livro é ótimo! O autor praticamente pega na sua mão e explica detalhadamente cada aspecto da linguagem C. Além disso, ele utiliza boas práticas de codificação, aborda lógica de programação e aprimora as habilidades na linguagem.
 
 ## Como funciona? 
-No jogo de adivinhação consiste em você adivinhar qual é o número secreto, e ainda pode escolhaer qual dos 3 niveis você quer jogar. 
-- Nível Fácil - com 20 tentaitvas. 
+No jogo de adivinhação consiste em você adivinhar qual é o número secreto, e ainda pode escolher qual dos 3 níveis você quer jogar. 
+- Nível Fácil - com 20 tentatitvas. 
 - Nível Médio - com 15 tentativas.
 - Nível Dificil - com 6 tentatias. 
 
